@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Neural_network_in_Csharp/1.0.0": {
+        "runtime": {
+          "Neural_network_in_Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neural_network_in_Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
